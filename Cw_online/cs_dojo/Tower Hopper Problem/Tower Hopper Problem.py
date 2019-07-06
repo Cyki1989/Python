@@ -15,7 +15,7 @@ data = data[::-1]
 print(is_hoppable(data))
 '''
 
-## Recursive solution with 2 fuctions
+## Recursive solution with 2 fuctions (main function only to rev_sort data)
 '''
 def is_hoppable(data):
     data = data[::-1]
